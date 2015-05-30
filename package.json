@@ -1,0 +1,30 @@
+{
+  "name": "gulp-flat-blog",
+  "version": "1.0.0",
+  "description": "Gulp plugin for generating a flat file blog from markdown files.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joey-Davis/gulp-flat-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "gulp",
+    "plugin",
+    "flat-file",
+    "flatfile",
+    "flat",
+    "file",
+    "markdown"
+  ],
+  "author": "Joey Davis",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "front-matter": "^1.0.0",
+    "highlight.js": "^8.6.0",
+    "markdown-it": "^4.2.1",
+    "through2": "^0.6.5",
+    "vinyl": "^0.4.6"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "handlebars": "^3.0.3"
+  }
+}
