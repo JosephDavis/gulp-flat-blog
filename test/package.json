@@ -2,6 +2,6 @@
   "private": true,
   "dependencies": {
     "gulp": "^3.8.11",
-    "handlebars": "^3.0.3"
+    "handlebars": "^4.0.0"
   }
 }
